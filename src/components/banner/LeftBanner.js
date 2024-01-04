@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { FaFacebookF, FaTwitter, FaLinkedinIn, FaReact, FaNode, FaPython, FaJava, FaDocker } from "react-icons/fa";
+import { FaReact, FaNode, FaPython, FaJava, FaDocker } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
